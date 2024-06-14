@@ -1,3 +1,5 @@
+
+
 import 'banks_dummy.dart';
 import 'vo/vo_bank_account.dart';
 
@@ -8,8 +10,53 @@ final bankAccountToss = BankAccount(bankTtoss, 5000000);
 final bankAccountKakao = BankAccount(bankKakao, 7000000, accountTypeName: "입출금통장");
 
 main() {
-  print(bankAccounts[0].accountTypeName);
+  print(bankAccounts[3].accountTypeName);
+
+  for (final item in bankAccounts) {
+    print(item.accountTypeName);
+  }
+  final shinhanBank = bankMap["shinhan1"];
+  // print(shinhanBank ==bankAccountShinhan1);
+
+  for (final entry in bankMap.entries) {
+    print(entry.key + ":" + (entry.value.accountTypeName ?? entry.value.bank.name));
+  }
+
+  print(bankSet.length);
+
+  // List를 Set으로 변경
+  bankAccounts.toSet();
+  // Set을 List로 변경
+  bankSet.toList();
 }
 
 //List
-final bankAccounts = [bankAccountShinhan1, bankAccountShinhan2, bankAccountShinhan3, bankAccountToss, bankAccountKakao];
+final bankAccounts = [
+  bankAccountShinhan1,
+  bankAccountShinhan1,
+  bankAccountShinhan1,
+  bankAccountShinhan1,
+  bankAccountShinhan1,
+  bankAccountShinhan1,
+  bankAccountShinhan1,
+  bankAccountShinhan2,
+  bankAccountShinhan3,
+  bankAccountToss,
+  bankAccountKakao
+];
+
+//Map
+final bankMap = {
+  "shinhan1": bankAccountShinhan1,
+  "shinhan2": bankAccountShinhan2,
+};
+
+//Set
+final bankSet = {bankAccountShinhan1,
+  bankAccountShinhan2,
+  bankAccountShinhan2,
+  bankAccountShinhan2,
+  bankAccountShinhan2,
+  bankAccountShinhan3,
+  bankAccountToss,
+  bankAccountKakao};
