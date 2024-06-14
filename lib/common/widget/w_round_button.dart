@@ -1,5 +1,5 @@
-import 'package:fastcapus_toss/common/common.dart';
-import 'package:fastcapus_toss/common/widget/round_button_theme.dart';
+import 'package:fastcampus_toss/common/common.dart';
+import 'package:fastcampus_toss/common/widget/round_button_theme.dart';
 import 'package:flutter/material.dart';
 
 import 'mixin/wm_refresh_every_second.dart';

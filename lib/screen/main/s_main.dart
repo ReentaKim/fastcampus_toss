@@ -1,7 +1,7 @@
 import 'package:after_layout/after_layout.dart';
-import 'package:fastcapus_toss/common/dart/extension/num_duration_extension.dart';
-import 'package:fastcapus_toss/screen/main/tab/tab_item.dart';
-import 'package:fastcapus_toss/screen/main/tab/tab_navigator.dart';
+import 'package:fastcampus_toss/common/dart/extension/num_duration_extension.dart';
+import 'package:fastcampus_toss/screen/main/tab/tab_item.dart';
+import 'package:fastcampus_toss/screen/main/tab/tab_navigator.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_native_splash/flutter_native_splash.dart';
 

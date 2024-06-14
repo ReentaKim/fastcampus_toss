@@ -1,5 +1,5 @@
-import 'package:fastcapus_toss/common/widget/scaffold/center_dialog_scaffold.dart';
-import 'package:fastcapus_toss/data/simple_result.dart';
+import 'package:fastcampus_toss/common/widget/scaffold/center_dialog_scaffold.dart';
+import 'package:fastcampus_toss/data/simple_result.dart';
 import 'package:flutter/material.dart';
 import 'package:nav/dialog/dialog.dart';
 

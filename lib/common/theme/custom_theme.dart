@@ -1,8 +1,8 @@
-import 'package:fastcapus_toss/common/common.dart';
-import 'package:fastcapus_toss/common/theme/color/dark_app_colors.dart';
-import 'package:fastcapus_toss/common/theme/color/light_app_colors.dart';
-import 'package:fastcapus_toss/common/theme/shadows/dart_app_shadows.dart';
-import 'package:fastcapus_toss/common/theme/shadows/light_app_shadows.dart';
+import 'package:fastcampus_toss/common/common.dart';
+import 'package:fastcampus_toss/common/theme/color/dark_app_colors.dart';
+import 'package:fastcampus_toss/common/theme/color/light_app_colors.dart';
+import 'package:fastcampus_toss/common/theme/shadows/dart_app_shadows.dart';
+import 'package:fastcampus_toss/common/theme/shadows/light_app_shadows.dart';
 import 'package:flutter/material.dart';
 
 enum CustomTheme {

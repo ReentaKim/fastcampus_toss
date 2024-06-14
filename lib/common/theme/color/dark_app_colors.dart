@@ -1,4 +1,4 @@
-import 'package:fastcapus_toss/common/theme/color/abs_theme_colors.dart';
+import 'package:fastcampus_toss/common/theme/color/abs_theme_colors.dart';
 import 'package:flutter/material.dart';
 
 class DarkAppColors extends AbstractThemeColors {

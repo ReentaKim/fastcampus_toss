@@ -7,11 +7,11 @@
 
 import 'dart:io';
 
-import 'package:fastcapus_toss/app.dart';
-import 'package:fastcapus_toss/common/common.dart';
-import 'package:fastcapus_toss/common/data/preference/app_preferences.dart';
-import 'package:fastcapus_toss/common/language/language.dart';
-import 'package:fastcapus_toss/common/theme/custom_theme.dart';
+import 'package:fastcampus_toss/app.dart';
+import 'package:fastcampus_toss/common/common.dart';
+import 'package:fastcampus_toss/common/data/preference/app_preferences.dart';
+import 'package:fastcampus_toss/common/language/language.dart';
+import 'package:fastcampus_toss/common/theme/custom_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:isar/isar.dart';

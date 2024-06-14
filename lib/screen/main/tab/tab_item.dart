@@ -1,9 +1,9 @@
-import 'package:fastcapus_toss/common/common.dart';
-import 'package:fastcapus_toss/screen/main/tab/all/f_all.dart';
-import 'package:fastcapus_toss/screen/main/tab/benefit/f_benefit.dart';
-import 'package:fastcapus_toss/screen/main/tab/home/f_home.dart';
-import 'package:fastcapus_toss/screen/main/tab/stock/f_stock.dart';
-import 'package:fastcapus_toss/screen/main/tab/ttospay/f_ttospay.dart';
+import 'package:fastcampus_toss/common/common.dart';
+import 'package:fastcampus_toss/screen/main/tab/all/f_all.dart';
+import 'package:fastcampus_toss/screen/main/tab/benefit/f_benefit.dart';
+import 'package:fastcampus_toss/screen/main/tab/home/f_home.dart';
+import 'package:fastcampus_toss/screen/main/tab/stock/f_stock.dart';
+import 'package:fastcampus_toss/screen/main/tab/ttospay/f_ttospay.dart';
 import 'package:flutter/material.dart';
 
 enum TabItem {

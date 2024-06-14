@@ -1,4 +1,4 @@
-import 'package:fastcapus_toss/common/cli_common.dart';
+import 'package:fastcampus_toss/common/cli_common.dart';
 import 'package:flutter/widgets.dart';
 
 extension AnimationControllerExtension on AnimationController {

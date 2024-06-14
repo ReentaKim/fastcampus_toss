@@ -1,5 +1,5 @@
-import 'package:fastcapus_toss/common/common.dart';
-import 'package:fastcapus_toss/screen/opensource/vo_package.dart';
+import 'package:fastcampus_toss/common/common.dart';
+import 'package:fastcampus_toss/screen/opensource/vo_package.dart';
 import 'package:flutter/material.dart';
 
 class OpensourceItem extends StatelessWidget {

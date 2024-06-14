@@ -1,4 +1,4 @@
-import 'package:fastcapus_toss/common/theme/custom_theme.dart';
+import 'package:fastcampus_toss/common/theme/custom_theme.dart';
 import 'package:flutter/material.dart';
 
 import '../common.dart';

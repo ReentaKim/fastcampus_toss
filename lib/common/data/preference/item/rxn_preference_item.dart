@@ -1,4 +1,4 @@
-import 'package:fastcapus_toss/common/data/preference/item/nullable_preference_item.dart';
+import 'package:fastcampus_toss/common/data/preference/item/nullable_preference_item.dart';
 
 import '../app_preferences.dart';
 

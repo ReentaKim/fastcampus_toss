@@ -1,7 +1,7 @@
-import 'package:fastcapus_toss/common/constant/app_colors.dart';
+import 'package:fastcampus_toss/common/constant/app_colors.dart';
 import 'package:flutter/material.dart';
 
-export 'package:fastcapus_toss/common/constant/app_colors.dart';
+export 'package:fastcampus_toss/common/constant/app_colors.dart';
 
 typedef ColorProvider = Color Function();
 

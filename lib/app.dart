@@ -1,6 +1,6 @@
-import 'package:fastcapus_toss/common/common.dart';
-import 'package:fastcapus_toss/common/theme/custom_theme_app.dart';
-import 'package:fastcapus_toss/screen/main/s_main.dart';
+import 'package:fastcampus_toss/common/common.dart';
+import 'package:fastcampus_toss/common/theme/custom_theme_app.dart';
+import 'package:fastcampus_toss/screen/main/s_main.dart';
 import 'package:flutter/material.dart';
 
 import 'common/theme/custom_theme.dart';

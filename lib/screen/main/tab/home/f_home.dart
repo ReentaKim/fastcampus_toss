@@ -1,7 +1,7 @@
-import 'package:fastcapus_toss/common/common.dart';
-import 'package:fastcapus_toss/common/widget/round_button_theme.dart';
-import 'package:fastcapus_toss/common/widget/w_round_button.dart';
-import 'package:fastcapus_toss/screen/dialog/d_message.dart';
+import 'package:fastcampus_toss/common/common.dart';
+import 'package:fastcampus_toss/common/widget/round_button_theme.dart';
+import 'package:fastcampus_toss/common/widget/w_round_button.dart';
+import 'package:fastcampus_toss/screen/dialog/d_message.dart';
 import 'package:flutter/material.dart';
 
 import '../../../dialog/d_color_bottom.dart';
